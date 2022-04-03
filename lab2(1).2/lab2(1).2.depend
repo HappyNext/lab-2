@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1648537441 source:d:\i-121\Объектно-ориентированное программирование\lab2(1).2\time.cpp
+	<iostream>
+	<cstring>
+	"Time.h"
+
+1648537441 d:\i-121\Объектно-ориентированное программирование\lab2(1).2\time.h
+
+1648720335 source:d:\i-121\Объектно-ориентированное программирование\lab2(1).2\main.cpp
+	<iostream>
+	<cstring>
+	"Time.h"
+	"windows.h"
+
